@@ -35,11 +35,14 @@
 
 ---
 
-### 💛 PROJECTS
+### 💛 FEATURED PROJECTS
 
 <p align="center">
   <a href="https://github.com/clementrnx/footpredictor">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=clementrnx&repo=footpredictor&theme=tokyonight&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=00000000&hide_border=true" />
+  </a>
+  <a href="https://github.com/clementrnx/twitchclipper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=clementrnx&repo=twitchclipper&theme=tokyonight&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=00000000&hide_border=true" />
   </a>
 </p>
 
