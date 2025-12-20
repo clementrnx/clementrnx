@@ -22,7 +22,7 @@
 
 ---
 
-### 🧠 
+###  ANALYTICS
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=clementrnx&show_icons=true&theme=tokyonight&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=00000000&hide_border=true" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clementrnx&layout=compact&theme=tokyonight&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=00000000&hide_border=true" width="300" />
@@ -30,15 +30,16 @@
 
 ---
 
-### 🚀 PROJECT
+###  PROJECT
 > **[iTrOz Predictor](https://github.com/clementrnx/foot)** > *Quantifying football chaos through Shannon Entropy.*
 
 ---
 
 ### 👾 CONTACT ME
 <p align="center">
-  <a href="https://discord.com/users/itrozola"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/cl%C3%A9ment-renaux-3a8815384/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/clementrnxx"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://discord.com/users/itrozola"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 <p align="center">
