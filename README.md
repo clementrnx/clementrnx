@@ -35,7 +35,7 @@
 
 ---
 
-### 💛 FEATURED PROJECTS
+### 💛 PROJECTS
 
 <p align="center">
   <a href="https://github.com/clementrnx/footpredictor">
