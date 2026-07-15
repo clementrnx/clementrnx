@@ -29,7 +29,7 @@
     <text class="code" x="42" y="156">  focus: [<tspan class="dim">"compilers", "backend APIs", "systems programming"</tspan>],</text>
     <text class="code" x="42" y="184">  lookingFor: <tspan class="dim">"6-month software dev internship, EU, Sept 2026"</tspan>,</text>
     <text class="code" x="42" y="212">  currentlyBuilding: <tspan class="dim">"a Tiger compiler with generics (turbofish syntax)"</tspan>,</text>
-    <text class="code" x="42" y="240">  <tspan font-size="22" dy="2">♥</tspan><tspan dy="-2">:</tspan> <tspan class="dim">"FC Barcelona &amp; Axel Sola"</tspan></text>
+    <text class="code" x="42" y="240">  <tspan font-size="22" dy="2">fanOf :</tspan><tspan dy="-2">:</tspan> <tspan class="dim">"FC Barcelona &amp; Axel Sola"</tspan></text>
     <text class="code" x="42" y="268">};</text>
   </g>
 </svg>
