@@ -74,11 +74,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=clementrnx&show_icons=true&hide_border=true&bg_color=000000&title_color=39FF14&text_color=39FF14&icon_color=39FF14&border_color=39FF14&border_radius=8" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clementrnx&layout=compact&hide_border=true&bg_color=000000&title_color=39FF14&text_color=39FF14&border_color=39FF14&border_radius=8" width="34%"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=clementrnx&theme=dark&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&dates=39FF14&stroke=39FF14" width="60%"/>
 
 </div>
