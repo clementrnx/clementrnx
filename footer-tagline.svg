@@ -1,0 +1,14 @@
+<svg width="700" height="34" viewBox="0 0 700 34" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.6" result="b1"/>
+      <feMerge><feMergeNode in="b1"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .t { font-family: 'Courier New', monospace; font-style: italic; font-size: 15px; fill: #39ff14; }
+      @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.5; } }
+      .pulse { animation: pulse 2.4s ease-in-out infinite; }
+    </style>
+  </defs>
+  <text class="t pulse" x="350" y="22" text-anchor="middle" filter="url(#glow)">Open to internship opportunities across the EU — let's talk!</text>
+</svg>

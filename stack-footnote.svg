@@ -1,0 +1,8 @@
+<svg width="900" height="30" viewBox="0 0 900 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .t { font-family: 'Courier New', monospace; font-style: italic; font-size: 12px; fill: #1f8c1f; }
+    </style>
+  </defs>
+  <text class="t" x="450" y="18" text-anchor="middle">+ C · SQL · Ada · Quarkus · Bison / RE-flex · Autotools · Axum — no official brand logo, so they're not pictured here</text>
+</svg>

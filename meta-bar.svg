@@ -1,0 +1,28 @@
+<svg width="620" height="46" viewBox="0 0 620 46" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="b1"/>
+      <feMerge>
+        <feMergeNode in="b1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .txt { font-family: 'Courier New', monospace; font-weight: 700; fill: #39ff14; letter-spacing: 0.5px; }
+      .sep { fill: #0f7d1a; }
+      @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.5; } }
+      .p1 { animation: pulse 2.4s ease-in-out infinite; }
+      .p2 { animation: pulse 2.4s ease-in-out infinite 0.4s; }
+      .p3 { animation: pulse 2.4s ease-in-out infinite 0.8s; }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="618" height="44" rx="8" fill="#000000"/>
+  <rect x="1" y="1" width="618" height="44" rx="8" fill="none" stroke="#39ff14" stroke-width="1.4" opacity="0.7" filter="url(#glow)"/>
+
+  <text class="txt p1" x="20" y="28" font-size="13" filter="url(#glow)">LYON, FRANCE</text>
+  <text class="sep" x="150" y="28" font-size="13">·</text>
+  <text class="txt p2" x="165" y="28" font-size="13" filter="url(#glow)">AVAILABLE SEPT 2026</text>
+  <text class="sep" x="370" y="28" font-size="13">·</text>
+  <text class="txt p3" x="385" y="28" font-size="13" filter="url(#glow)">FR / EN / DE</text>
+</svg>

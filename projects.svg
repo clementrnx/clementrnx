@@ -1,0 +1,66 @@
+<svg width="900" height="510" viewBox="0 0 900 510" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .card { fill:#000000; stroke:#1f8c1f; stroke-width:1; }
+      .title { font-family: 'Courier New', monospace; font-weight:700; font-size:16px; fill:#39ff14; }
+      .desc  { font-family: 'Courier New', monospace; font-size:12px; fill:#5fd45f; }
+      .tag   { font-family: 'Courier New', monospace; font-style:italic; font-size:11px; fill:#1f8c1f; }
+      @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.5; } }
+      .p0 { animation: pulse 2.6s ease-in-out infinite; }
+      .p1 { animation: pulse 2.6s ease-in-out infinite 0.3s; }
+      .p2 { animation: pulse 2.6s ease-in-out infinite 0.6s; }
+      .p3 { animation: pulse 2.6s ease-in-out infinite 0.9s; }
+      .p4 { animation: pulse 2.6s ease-in-out infinite 1.2s; }
+      .p5 { animation: pulse 2.6s ease-in-out infinite 1.5s; }
+    </style>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.4" result="b1"/>
+      <feMerge><feMergeNode in="b1"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="510" fill="#000000"/>
+
+  <!-- Row 1 -->
+  <rect class="card" x="10" y="10" width="430" height="150" rx="6"/>
+  <text class="title p0" x="28" y="38" filter="url(#glow)">Tiger Compiler</text>
+  <text class="desc" x="28" y="62">Full compiler for the Tiger language — scanner,</text>
+  <text class="desc" x="28" y="80">parser, AST, binder, typechecker and C codegen,</text>
+  <text class="desc" x="28" y="98">extended with generics/templates (turbofish).</text>
+  <text class="tag" x="28" y="132">C++ · RE-flex · Bison · Autotools</text>
+
+  <rect class="card" x="460" y="10" width="430" height="150" rx="6"/>
+  <text class="title p1" x="478" y="38" filter="url(#glow)">Yakamon API</text>
+  <text class="desc" x="478" y="62">REST backend for a Pokémon-like game with</text>
+  <text class="desc" x="478" y="80">layered architecture, service/converter</text>
+  <text class="desc" x="478" y="98">separation and a full test suite.</text>
+  <text class="tag" x="478" y="132">Java · Quarkus · JUnit</text>
+
+  <!-- Row 2 -->
+  <rect class="card" x="10" y="180" width="430" height="150" rx="6"/>
+  <text class="title p2" x="28" y="208" filter="url(#glow)">Smart Pallet</text>
+  <text class="desc" x="28" y="232">Warehouse logistics service for pallet</text>
+  <text class="desc" x="28" y="250">tracking and routing.</text>
+  <text class="tag" x="28" y="302">Rust · Axum</text>
+
+  <rect class="card" x="460" y="180" width="430" height="150" rx="6"/>
+  <text class="title p3" x="478" y="208" filter="url(#glow)">Snow Route Optimization</text>
+  <text class="desc" x="478" y="232">Chinese Postman Problem solver on real OSMnx</text>
+  <text class="desc" x="478" y="250">map data, with report generation and an</text>
+  <text class="desc" x="478" y="268">interactive HTML/JS viewer.</text>
+  <text class="tag" x="478" y="302">Python · OSMnx · Excel</text>
+
+  <!-- Row 3 -->
+  <rect class="card" x="10" y="350" width="430" height="150" rx="6"/>
+  <text class="title p4" x="28" y="378" filter="url(#glow)">Containerized Microservices</text>
+  <text class="desc" x="28" y="402">Multi-stage Dockerized Go services with a</text>
+  <text class="desc" x="28" y="420">full observability stack.</text>
+  <text class="tag" x="28" y="472">Go · Docker · Redis · Prometheus · Grafana</text>
+
+  <rect class="card" x="460" y="350" width="430" height="150" rx="6"/>
+  <text class="title p5" x="478" y="378" filter="url(#glow)">USTAR Archiver &amp; Config Parser</text>
+  <text class="desc" x="478" y="402">Low-level C tooling: a USTAR-format file</text>
+  <text class="desc" x="478" y="420">archiver and a system config parser with a</text>
+  <text class="desc" x="478" y="438">custom string library.</text>
+  <text class="tag" x="478" y="472">C</text>
+</svg>

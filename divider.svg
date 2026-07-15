@@ -1,0 +1,26 @@
+<svg width="900" height="20" viewBox="0 0 900 20" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#39ff14" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      @keyframes slide {
+        0% { stroke-dashoffset: 0; }
+        100% { stroke-dashoffset: -60; }
+      }
+      .dashline { stroke-dasharray: 6 6; animation: slide 2s linear infinite; }
+    </style>
+  </defs>
+  <rect width="900" height="20" fill="transparent"/>
+  <line x1="0" y1="10" x2="900" y2="10" stroke="url(#lineGrad)" stroke-width="2" filter="url(#glow)"/>
+  <line class="dashline" x1="0" y1="10" x2="900" y2="10" stroke="#0aff0a" stroke-width="1" opacity="0.6"/>
+</svg>

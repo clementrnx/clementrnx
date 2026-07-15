@@ -1,0 +1,17 @@
+<svg width="900" height="50" viewBox="0 0 900 50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="b1"/>
+      <feMerge><feMergeNode in="b1"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .h { font-family: 'Courier New', monospace; font-weight: 700; font-size: 20px; fill: #39ff14; }
+      .d { fill: #0f7d1a; }
+      @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.5; } }
+      .pulse { animation: pulse 2.4s ease-in-out infinite; }
+    </style>
+  </defs>
+  <line x1="0" y1="46" x2="900" y2="46" stroke="#0f4d1a" stroke-width="1"/>
+  <text class="d" x="0" y="30" font-size="20">&gt;</text>
+  <text class="h pulse" x="18" y="30" filter="url(#glow)">ls ./projects</text>
+</svg>
