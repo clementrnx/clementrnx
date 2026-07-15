@@ -1,0 +1,18 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="900" height="200" fill="#050505"/>
+  <text x="450" y="100" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="52" font-weight="800" fill="#FFEA00" opacity="0.55" filter="url(#glow)" letter-spacing="2">CLEMENT RENAUX</text>
+  <text x="450" y="100" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="52" font-weight="800" fill="#FFFFFF" letter-spacing="2">CLEMENT RENAUX</text>
+  <line x1="370" y1="122" x2="530" y2="122" stroke="#FFEA00" stroke-width="2">
+    <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="2.2s" repeatCount="indefinite"/>
+  </line>
+  <text x="450" y="155" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#FFEA00" letter-spacing="0.5">Software Engineering Student — EPITA Lyon</text>
+</svg>
