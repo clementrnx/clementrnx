@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:FFEA00,100:000000&height=170&section=header&text=CLEMENT%20RENAUX&fontSize=44&fontColor=FFFFFF&fontAlignY=45&desc=Software%20Engineering%20Student%20%E2%80%94%20EPITA%20Lyon&descAlignY=65&descSize=16&descColor=FFEA00&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FFEA00&background=00000000&center=true&vCenter=true&width=650&lines=ING1+S5+%40+EPITA+Lyon+%E2%80%94+promo+2028;compilers+%2F+backend+%2F+devops;open+to+a+6-month+internship" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FFEA00&background=00000000&center=true&vCenter=true&width=650&lines=EPITA+Lyon+%E2%80%94+promo+2028;compilers+%2F+backend+%2F+devops;open+to+a+6-month+internship" alt="Typing SVG"/>
 
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FFEA00,100:000000&height=4&width=100%"/>
 
 ## `>` About me
 
 Third-year engineering student at EPITA Lyon, specializing in Software Development and Industry of the Future. Most of my time is split between systems programming in C/C++/Rust and backend development in Java with Quarkus, with Go and React when I step out of the systems layer.
 Currently looking for a **6-month software development internship**, starting September 2026.
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FFEA00,100:000000&height=4&width=100%"/>
 
 ## `>` Stack
 
@@ -45,7 +45,7 @@ Currently looking for a **6-month software development internship**, starting Se
 
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FFEA00,100:000000&height=4&width=100%"/>
 
 ## `>` Projects
 
@@ -112,7 +112,7 @@ Configuration parser with getopt, custom string library, USTAR file archiver, sh
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FFEA00,100:000000&height=4&width=100%"/>
 
 ## `>` Stats
 
@@ -123,15 +123,11 @@ Configuration parser with getopt, custom string library, USTAR file archiver, sh
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=clementrnx&theme=radical&background=050505&stroke=FFEA00&ring=FFEA00&fire=FFEA00&currStreakLabel=FFEA00&border=FFEA00" width="60%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=clementrnx&bg_color=050505&color=FFEA00&line=FFEA00&point=ffffff&area=true&hide_border=true" width="90%"/>
+<img src="https://streak-stats.demolab.com/?user=clementrnx&theme=radical&background=050505&stroke=FFEA00&ring=FFEA00&fire=FFEA00&currStreakLabel=FFEA00&border=FFEA00" width="60%"/>
 
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FFEA00,100:000000&height=4&width=100%"/>
 
 <div align="center">
 
@@ -141,7 +137,7 @@ Configuration parser with getopt, custom string library, USTAR file archiver, sh
 
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FFEA00,100:000000&height=4&width=100%"/>
 
 <div align="center">
 
