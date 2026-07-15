@@ -1,66 +1,150 @@
-# @clementrnx
+<div align="center">
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzk0ODJiYzI5eGI3aGY2Y3Z5b2IzZGF6OTNicmZ6eWJzcGRkN3d5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VZrfUvQjXaGEQy1RSn/giphy.gif" width="100%" />
-</p>
+<img src="./assets/banner.svg" width="100%"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=60&section=header&text=%20&fontSize=90" />
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FFEA00&background=00000000&center=true&vCenter=true&width=650&lines=ING1+S5+%40+EPITA+Lyon+%E2%80%94+promo+2028;compilers+%2F+backend+%2F+devops;open+to+a+6-month+internship" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Clementrnx+there+%F0%9F%92%9B" alt="Typing SVG" />
-</p>
+</div>
 
----
+<img src="./assets/divider.svg" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/maths-%23000000.svg?style=for-the-badge&logo=mathas&logoColor=FFD700" />
-  <br>
-  <img src="https://img.shields.io/badge/Physics-%23D12127.svg?style=for-the-badge&logo=physics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chemistry-%23009432.svg?style=for-the-badge&logo=chemistry&logoColor=white" />
-  <img src="https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>
+## `>` About me
 
----
+Third-year engineering student at EPITA Lyon, specializing in Software Development and Industry of the Future. Most of my time is split between systems programming in C/C++/Rust and backend development in Java with Quarkus, with Go and React when I step out of the systems layer.
+Currently looking for a **6-month software development internship**, starting September 2026.
 
-### ⚡️ ANALYTICS
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=clementrnx&show_icons=true&theme=tokyonight&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=00000000&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clementrnx&layout=compact&theme=tokyonight&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=00000000&hide_border=true" width="300" />
-</p>
+<img src="./assets/divider.svg" width="100%"/>
 
----
+## `>` Stack
 
-### 💛 PROJECTS
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/clementrnx/footpredictor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=clementrnx&repo=footpredictor&theme=tokyonight&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=00000000&hide_border=true" />
-  </a>
-  <a href="https://github.com/clementrnx/twitchclipper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=clementrnx&repo=twitchclipper&theme=tokyonight&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=00000000&hide_border=true" />
-  </a>
-</p>
+<marquee behavior="scroll" direction="left" scrollamount="7">
+&nbsp;
+<img src="https://skillicons.dev/icons?i=c" height="42"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" height="42"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=rust" height="42"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=go" height="42"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java" height="42"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" height="42"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" height="42"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react" height="42"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs" height="42"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" height="42"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres" height="42"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" height="42"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=redis" height="42"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=prometheus" height="42"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=grafana" height="42"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" height="42"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="42"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=gitlab" height="42"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" height="42"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=bash" height="42"/>
+</marquee>
 
-<p align="center">
-  <a href="https://github.com/clementrnx?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repos-%23FFD700.svg?style=for-the-badge&logo=github&logoColor=black" />
-  </a>
-</p>
+</div>
 
----
+<img src="./assets/divider.svg" width="100%"/>
 
-### 🎗️ CONTACT ME
-<p align="center">
-  <a href="https://www.linkedin.com/in/cl%C3%A9ment-renaux-3a8815384/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/clementrnxx"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://discord.com/users/itrozola"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
+## `>` Projects
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=60&section=footer" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Tiger Compiler**
+<br>
+Full compiler for a functional language: lexical analysis, parsing, type checking, plus a templates extension with monomorphization via turbofish-style syntax.
+<br>
+`C++` `Bison` `RE-flex`
+
+</td>
+<td width="50%" valign="top">
+
+**Quarkus Backend**
+<br>
+Multi-layer REST API, 80+ tests, clean separation between services and converters.
+<br>
+`Quarkus` `Java` `REST`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Go Microservices**
+<br>
+Containerized services with Docker, full observability with Prometheus and Grafana dashboards.
+<br>
+`Go` `Docker` `Prometheus` `Grafana`
+
+</td>
+<td width="50%" valign="top">
+
+**JWT-Secured REST API**
+<br>
+JWT authentication, file system CRUD operations, GitLab CI/CD pipeline, PostgreSQL storage.
+<br>
+`Java` `JWT` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Route Optimization**
+<br>
+Chinese Postman Problem solved on real map data, with export and visualization of the results.
+<br>
+`Python` `OSMnx`
+
+</td>
+<td width="50%" valign="top">
+
+**Systems Tools in C**
+<br>
+Configuration parser with getopt, custom string library, USTAR file archiver, shell interpreter.
+<br>
+`C` `Unix` `Systems`
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+## `>` Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=clementrnx&show_icons=true&theme=radical&bg_color=050505&title_color=FFEA00&icon_color=FFEA00&text_color=ffffff&border_color=FFEA00" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clementrnx&layout=compact&theme=radical&bg_color=050505&title_color=FFEA00&text_color=ffffff&border_color=FFEA00" width="42%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=clementrnx&theme=radical&background=050505&stroke=FFEA00&ring=FFEA00&fire=FFEA00&currStreakLabel=FFEA00&border=FFEA00" width="60%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=clementrnx&bg_color=050505&color=FFEA00&line=FFEA00&point=ffffff&area=true&hide_border=true" width="90%"/>
+
+</div>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<div align="center">
+
+[![](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFEA00)](https://www.linkedin.com/in/cl%C3%A9ment-renaux-3a8815384/)
+[![](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFEA00)](mailto:clement.renaux@epita.fr)
+[![](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFEA00)](https://github.com/clementrnx)
+
+</div>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<div align="center">
+
+![visitors](https://komarev.com/ghpvc/?username=clementrnx&color=ffea00&style=for-the-badge&label=visits)
+
+</div>
